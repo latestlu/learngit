@@ -1,1 +1,1 @@
-used to learn git and test.
+# Used to learn *Git* and *Test*.
